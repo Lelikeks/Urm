@@ -1,0 +1,1 @@
+powershell.exe -file backup.ps1 -instance mfc-db\dev12 -dbname main -user c3user -password 12345

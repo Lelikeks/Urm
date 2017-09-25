@@ -1,0 +1,1 @@
+powershell.exe -file restore.ps1 -instance mfc-db\dev12 -dbname main1 -user c3user -password 12345
